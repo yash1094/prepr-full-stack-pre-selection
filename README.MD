@@ -2,6 +2,8 @@
 
 ### by: Yash Pandya
 
+### To run the program, type : node run start
+
 ### Steps taken to solve problem
 
 1. Used axios to get return html source from the page
